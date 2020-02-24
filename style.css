@@ -64,8 +64,22 @@
       border:none;
       border-radius: 8px;
       background-image: linear-gradient(45deg, darkorange, tomato);
+     margin-bottom: 50px;
   }
 
-  .card-img-top{
-      width:150px;
-  }
+.category{
+    width: 200px;
+    height:200px;
+    padding: 20px 40px;
+}
+
+#contactus{
+    background-image: linear-gradient(90deg, gray, lightgray);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+footer{
+    text-align: center;
+    color: gray;
+}
